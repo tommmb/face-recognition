@@ -1,0 +1,3 @@
+create a folder for each person, then add ~10 images per person for training
+
+e.g. /face-recognition/faces/tom/face1.png
