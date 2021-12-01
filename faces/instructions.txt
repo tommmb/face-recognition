@@ -1,3 +1,4 @@
-create a folder for each person, then add ~10 images per person for training
+create a folder for each person, then add ~10 images per person for training. 
+The directory name is used as the label, the file name is irrelevant.
 
 e.g. /face-recognition/faces/tom/face1.png
